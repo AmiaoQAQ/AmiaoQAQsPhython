@@ -1,0 +1,2 @@
+# AmiaoQAQsPhython
+A small starter
